@@ -1,4 +1,4 @@
-install
+<font color="#FF0000">install</font>
 =======
 
 有关于jsd，tomcat，mysql，maven,nginx,redis等在centOS下的装配以及调试
