@@ -5,7 +5,7 @@
 
 https://github.com/jsd-tarena/install/wiki
 
-## 修改本文档必须遵守以下规则
+# 修改本文档必须遵守以下规则
 If you want to Edit our page, you must abide by it
 The rules follows:
 ## 1、不能恶意修改文档
