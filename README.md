@@ -2,6 +2,7 @@
 =======
 
 有关于jsd，tomcat，mysql，maven,nginx,redis等在centOS下的装配以及调试都请查看wiki!
+
 https://github.com/jsd-tarena/install/wiki
 
 ## 修改本文档必须遵守以下规则
